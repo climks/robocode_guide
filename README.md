@@ -30,3 +30,5 @@
   
 ## Winner
 The winner will be the bot who has the highest spot in the rankings on the server by 4PM PST (7PM EST). Have fun!
+
+*Collaboration is allowed, and even encouraged, but each person should submit their own bot!*
