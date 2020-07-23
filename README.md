@@ -18,8 +18,7 @@
 
 ## Battling & ranking up your robot on the leaderboard
   1.  Go to [League](https://jsbattle.jmrlab.com/#/league) and enter your favorite bot
-  2.  Battle other bots, Keystone or otherwise, and edit your bot as needed
-  3.  You are only able to battle 10 bots around your level--keep battling and try to earn the top rank!
+  2.  Your bot will automatically matched with others. A new match is scheduled every ~4 minutes, so publish fast, and edit faster!
   
 ## Suggestions & helpful links
   * The [Docs](https://jsbattle.jmrlab.com/docs/README.html) page has everything you need. It includes things like
