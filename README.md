@@ -16,7 +16,7 @@
   1.  Go to Settings tab of your bot
   2.  Battle other bots, in the league or a built-in one, and edit your bot as needed  
 
-## Battling your robot against other robots
+## Battling & ranking your up robot on the leaderboard
   1.  Go to [League](https://jsbattle.jmrlab.com/#/league) and enter your favorite bot
   2.  Battle other bots, and edit your bot as needed
   3.  You are only able to battle 10 bots around your level--keep battling and try to earn the top rank!
