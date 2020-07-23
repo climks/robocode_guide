@@ -31,7 +31,7 @@
 ## Winner
 There will be 2 winners! One will be the bot who has achieved the highest ranking on the server by 4PM PST (7PM EST) today, and the other will be tallied at 4PM PST (7PM EST) on Monday, 7/27.  Have fun!
 
-*Collaboration is allowed, and even encouraged, but each person should submit their own bot!*
+*Collaboration is allowed, and even encouraged, but each person should submit their own bot*
 
 ## Post-Offsite
 Dmitry and I are working on configuring our own server for JSBattle (*read: KSBattle*). Let us know if you want to keep working on your bots and get some office creds for destroying the rest.
