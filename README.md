@@ -26,7 +26,7 @@
     * [Algorithms](https://jsbattle.jmrlab.com/docs/algorithms/README.html)
     * [Solutions to challenges](https://jsbattle.jmrlab.com/docs/walkthroughs/README.html)
   * The Cheat Sheet tab of your robot has most commands and information you will likely need
-  * The [Robocode Wiki](https://robowiki.net/wiki/Main_Page) is full of interesting information, but it's for Java and the original Robocode. Go here for movement and shooting ideas
+  * The [Robocode Wiki](https://robowiki.net/wiki/Main_Page) is full of interesting information, but it's for Java and the original Robocode. Use this for movement and shooting ideas
   
 ## Winner
 The winner will be the bot who has the highest spot in the rankings on the server by 4PM PST (7PM EST). Have fun!
