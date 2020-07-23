@@ -1,7 +1,7 @@
 # KATS Offsite 2020 -- JSBattle guide
 
 ## Introduction
-[JSBattle ](https://github.com/jamro/jsbattle) is a programming game where each contestant develops robot tanks to defeat other bots in the battlefield. It is an online JS offshoot of [Robocode](https://robocode.sourceforge.io/), which people have been enthusiastically building robots for since 2000. The top robots in Robocode can be [very sophisticated](https://www.youtube.com/watch?v=0qtoh_PjhcU).
+[JSBattle ](https://github.com/jamro/jsbattle) is a programming game where each contestant develops robot tanks to defeat other bots in the battlefield. It is an online JS offshoot of [Robocode](https://robocode.sourceforge.io/), for which people have been enthusiastically building robots since 2000. The top robots in Robocode can be [very sophisticated](https://www.youtube.com/watch?v=0qtoh_PjhcU).
 
 ## Set up
   1.  Go to the [JSBattle server](https://jsbattle.jmrlab.com/) and link your GitHub account
