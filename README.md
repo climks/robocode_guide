@@ -6,7 +6,7 @@
 ## Set up & installation
   1.  Download [robocode-1.9.3.9-setup.jar](https://sourceforge.net/projects/robocode/files/robocode/1.9.3.9/)
   2.  Open Terminal in the downloaded directory
-  3.  Run `java -jar robocode-a.b.c.d-setup.jar`
+  3.  Run `java -jar robocode-1.9.3.9-setup.jar`
 
 ## Writing your first Robot
   1.  On the top bar, go to Robot -> Source Editor
