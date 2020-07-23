@@ -26,6 +26,7 @@
     * [Solutions to challenges](https://jsbattle.jmrlab.com/docs/walkthroughs/README.html)
     * [Sample enemies](https://jsbattle.jmrlab.com/docs/manual/bundled_tanks.html)
   * The Cheat Sheet tab of your robot has most commands and information you will likely need
+  * Math library will be extremely useful
   * The [Robocode Wiki](https://robowiki.net/wiki/Main_Page) is full of interesting information, but it's for Java and the original Robocode. Use this for movement and shooting ideas
   
 ## Winner
