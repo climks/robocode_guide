@@ -4,7 +4,7 @@
 [JSBattle ](https://github.com/jamro/jsbattle) is a programming game where each contestant develops robot tanks to defeat other bots in the battlefield. It is an online JS offshoot of [Robocode](https://robocode.sourceforge.io/), for which people have been enthusiastically building robots since 2000. The top robots in Robocode can be [very sophisticated](https://www.youtube.com/watch?v=0qtoh_PjhcU).
 
 ## Set up
-  1.  Go to the [JSBattle server](https://jsbattle.jmrlab.com/) and link your GitHub account
+  1.  Go to the [JSBattle community server](https://jsbattle.jmrlab.com/) and link your GitHub account
 
 ## Writing your first Robot
   1.  Initial tutorials can be found [here](https://jsbattle.jmrlab.com/#/challenge)
@@ -28,7 +28,7 @@
   * The [Robocode Wiki](https://robowiki.net/wiki/Main_Page) is full of interesting information, but it's for Java and the original Robocode. Use this for movement and shooting ideas
   
 ## Winner
-The winner will be the bot who has the highest spot in the rankings on the server by 4PM PST (7PM EST). Have fun!
+There will be 2 winners! One will be the bot who has achieved the highest ranking on the server by 4PM PST (7PM EST) today, and the other will be tallied at 4PM PST (7PM EST) on Monday, 7/27.  Have fun!
 
 *Collaboration is allowed, and even encouraged, but each person should submit their own bot!*
 
