@@ -25,7 +25,7 @@
   * The [Docs](https://jsbattle.jmrlab.com/docs/README.html) page has everything you need. It includes things like
     * [Algorithms](https://jsbattle.jmrlab.com/docs/algorithms/README.html)
     * [Solutions to challenges](https://jsbattle.jmrlab.com/docs/walkthroughs/README.html)
-  * The Cheat Sheet tab of your 
+  * The Cheat Sheet tab of your robot has most commands and information you will likely need
   * The [Robocode Wiki](https://robowiki.net/wiki/Main_Page) is full of interesting information, but it's for Java and the original Robocode. Go here for movement and shooting ideas
   
 ## Winner
