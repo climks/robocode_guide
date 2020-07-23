@@ -34,4 +34,4 @@ There will be 2 winners! One will be the bot who has achieved the highest rankin
 *Collaboration is allowed, and even encouraged, but each person should submit their own bot!*
 
 ## Post-Offsite
-Dmitry and I are working on configuring our own server for JSBattle (*read: KSBattle*)! Let us know if you want to keep working on your bots and get some office creds for destroying the rest.
+Dmitry and I are working on configuring our own server for JSBattle (*read: KSBattle*). Let us know if you want to keep working on your bots and get some office creds for destroying the rest.
